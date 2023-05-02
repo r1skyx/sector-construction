@@ -3,20 +3,10 @@
 		<nav-bar></nav-bar>
 		<main-page class="h-100" id="#"></main-page>
 		<second-page></second-page>
-		<services-page id="#services"></services-page>
-		<carousel-page id="#gallery"></carousel-page>
-		<h1 class="text-center">
-			Still have questions? Contact us with the form below
-		</h1>
-		<div class="overflow-hidden form mx-auto h-75" id="#contact">
-			<iframe
-				class="overflow"
-				src="https://share-eu1.hsforms.com/1eXqTb98_TMuvB8rS3hmMPAfn97r"
-				frameborder="100"
-			></iframe>
-		</div>
+		<services-page id="services"></services-page>
+		<carousel-page id="gallery"></carousel-page>
 		<div class="line mt-5"></div>
-		<footer class="mt-5">
+		<footer class="mt-5" id="contact">
 			<b-row>
 				<b-col cols="6" class="p-5">
 					<h2>Address</h2>

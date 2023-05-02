@@ -6,8 +6,8 @@
 			</b-col>
 			<b-col class="d-flex flex-row align-items-center justify-content-around">
 				<a href="#services">SERVICES</a>
-				<a href="#">GALLERY</a>
-				<a href="#">CONTACT</a>
+				<a href="#gallery">GALLERY</a>
+				<a href="#contact">CONTACT</a>
 			</b-col>
 		</b-row>
 	</div>
